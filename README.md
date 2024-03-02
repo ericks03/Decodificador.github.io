@@ -19,7 +19,7 @@ Este é um projeto proposto pela Alura + ONE após 2 formações que totalizaram
 ## Demonstração
 
 Além disso, a aplicação pode ser testada em:  
-[![Site Hospedado Github Pages](./assets/image__link.png)](https://github.com/ericks03/decodificador-de-texto.github.io.git)
+[![Site Hospedado Github Pages](./assets/image__link.png)][(https://github.com/ericks03/decodificador-de-texto.github.io.git)]
 
 
 ## Skills aprendidas
